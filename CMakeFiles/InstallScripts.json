@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/umarp/Downloads/turbo-racers-pro/turbo-racers-pro/build/cmake_install.cmake",
+		"C:/Users/umarp/Downloads/turbo-racers-pro/turbo-racers-pro/build/_deps/raylib-build/cmake_install.cmake",
+		"C:/Users/umarp/Downloads/turbo-racers-pro/turbo-racers-pro/build/_deps/raylib-build/raylib/cmake_install.cmake",
+		"C:/Users/umarp/Downloads/turbo-racers-pro/turbo-racers-pro/build/_deps/raylib-build/raylib/external/glfw/cmake_install.cmake",
+		"C:/Users/umarp/Downloads/turbo-racers-pro/turbo-racers-pro/build/_deps/raylib-build/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

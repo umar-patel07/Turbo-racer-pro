@@ -1,0 +1,3 @@
+C:/Users/umarp/Downloads/turbo-racers-pro/turbo-racers-pro/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+C:/Users/umarp/Downloads/turbo-racers-pro/turbo-racers-pro/build/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/umarp/Downloads/turbo-racers-pro/turbo-racers-pro/build/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir
