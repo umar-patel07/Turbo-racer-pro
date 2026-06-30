@@ -138,4 +138,3 @@ each as its own tested addition rather than all at once.
 Designed and developed by:
 
 - **Umar Patel**
-- 
